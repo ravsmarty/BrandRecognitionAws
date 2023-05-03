@@ -1,0 +1,34 @@
+# basic
+dill
+notebook
+boto3
+mypy-boto3-s3
+flask-cors
+flask
+
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+
+
+tensorboard
+
+pandas
+seaborn
+
+
+
+ipython 
+psutil  
+thop
+
+ultralytics
+
+-e .
